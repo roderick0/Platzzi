@@ -8,7 +8,7 @@ Mañana nos enfocaraemos en su vida laboral
 <<<<<<< HEAD
 Edad: 1.80
 
-Hermano: samuel castro
+Hermano: samuel castro castro
 =======
 Edad: 1.80 metros
 
