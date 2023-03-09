@@ -1,13 +1,8 @@
-Hola, mi nombre es Santiago Arias y tengo 25 años y 
-trabajo para Telefonica Colombia
+Hola, mi nombre es Santiago Arias y tengo 25 años y trabajo para Telefonica Colombia.
+
+Mañana nos enfocaraemos en su vida laboral.
+
+Edad: 1.80 metros.
+Deportes: Ciclismo
 
 Saludos!
-
-Mañana nos enfocaraemos en su vida laboral
-
-Edad: 1.80 metros
-
-Agregamos una cabecera
-
-Deportes: Ciclismo
- Este es el fin del marge.
