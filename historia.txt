@@ -1,10 +1,15 @@
-Hola, mi nombre es Santiago Arias y tengo 25 años y trabajo para Telefonica Colombia
+Esta es la historia de Freddy Vega
 
-Saludos!
+Freddy Vega tiene 32 años y nació en Colombia
 
-Mañana nos enfocaraemos en su vida laboral
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
 
-Edad: 1.80
+Experimento 1
 
-Hermano: samuel castro castro
-Este es el fin del marge.
+Experimento 2
+
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
